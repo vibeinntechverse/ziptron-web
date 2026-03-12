@@ -18,7 +18,7 @@ const footerLinks = {
     { name: "Help Center", href: "#" },
     { name: "Contact Us", href: "#contact" },
     { name: "FAQs", href: "#" },
-    { name: "Privacy Policy", href: "#" },
+    { name: "Privacy Policy", href: "/privacy-policy" },
   ],
 };
 
@@ -144,7 +144,7 @@ export default function Footer() {
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors text-sm">
               Terms of Service
             </a>
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors text-sm">
+            <a href="/privacy-policy" className="text-muted-foreground hover:text-primary transition-colors text-sm">
               Privacy Policy
             </a>
           </div>
