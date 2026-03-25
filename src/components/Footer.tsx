@@ -141,7 +141,7 @@ export default function Footer() {
             © 2025 Ziptron. All rights reserved.
           </p>
           <div className="flex gap-6">
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors text-sm">
+            <a href="/terms-of-service" className="text-muted-foreground hover:text-primary transition-colors text-sm">
               Terms of Service
             </a>
             <a href="/privacy-policy" className="text-muted-foreground hover:text-primary transition-colors text-sm">

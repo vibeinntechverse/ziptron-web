@@ -5,7 +5,7 @@ import { Menu, X, Zap, MapPin } from "lucide-react";
 
 const navLinks = [
   { name: "About Us", href: "#about" },
-  { name: "Products", href: "#pricing" },
+  // { name: "Products", href: "#pricing" },
   { name: "How It Works", href: "#how-it-works" },
   { name: "Partner", href: "#partner" },
   { name: "Contact", href: "#contact-form" },
